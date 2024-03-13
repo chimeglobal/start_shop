@@ -1,0 +1,3 @@
+function startShopping(){
+    return shopping 
+}
